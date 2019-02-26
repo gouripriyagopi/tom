@@ -1,3 +1,4 @@
 # tom
 my own
-26/02/2019
+26/Feb/2019
+Tuesday
